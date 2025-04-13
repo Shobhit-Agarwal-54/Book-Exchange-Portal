@@ -1,0 +1,18 @@
+import AlreadyLoggedIn from "@/(components)/alreadyLoggedIn"
+import ListAllBookDetails from "@/(components)/listBookDisplay"
+import NavBar from "@/(components)/navbar"
+
+function Seeker() {
+  return (
+        <div>
+         Seeker Dashboard
+         <AlreadyLoggedIn></AlreadyLoggedIn>
+          <NavBar></NavBar>
+        <div className="min-h-screen flex justify-center items-center">
+          <ListAllBookDetails></ListAllBookDetails>
+        </div>
+        </div>
+  )
+}
+
+export default Seeker
