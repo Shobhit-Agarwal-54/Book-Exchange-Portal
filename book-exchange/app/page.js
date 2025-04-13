@@ -57,7 +57,7 @@ export default async function Home() {
                   For Book Seekers
                 </h2>
                 <p className="text-gray-600 mb-4">
-                  Find books you've been looking for by browsing listings and
+                  Find books you have been looking for by browsing listings and
                   connecting directly with book owners.
                 </p>
                 <ul className="text-left text-gray-700 space-y-2 mb-4">
