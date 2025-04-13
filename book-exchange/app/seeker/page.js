@@ -5,7 +5,6 @@ import NavBar from "@/(components)/navbar"
 function Seeker() {
   return (
         <div>
-         Seeker Dashboard
          <AlreadyLoggedIn></AlreadyLoggedIn>
           <NavBar></NavBar>
         <div className="min-h-screen flex justify-center items-center">

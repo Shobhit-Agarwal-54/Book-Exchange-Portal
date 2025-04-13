@@ -47,8 +47,8 @@ export default async function Home() {
                 </p>
                 <ul className="text-left text-gray-700 space-y-2 mb-4">
                   <li>✓ List your available books</li>
-                  <li>✓ Connect with potential readers</li>
-                  <li>✓ Track the status of your books</li>
+                  <li>✓ Discover available books near you </li>
+                  <li>✓ Filter by genre or location</li>
                 </ul>
               </div>
 
@@ -76,7 +76,7 @@ export default async function Home() {
                 </p>
                 <ol className="text-left text-gray-700 space-y-2 mb-4">
                   <li>1. Create an account as an Owner or Seeker</li>
-                  <li>2. Browse listings or create your own</li>
+                  <li>2. Browse listings or add book</li>
                   <li>3. Connect directly with other users</li>
                   <li>4. Exchange or rent books as agreed</li>
                 </ol>

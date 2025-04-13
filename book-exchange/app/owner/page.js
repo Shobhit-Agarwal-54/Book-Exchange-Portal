@@ -9,7 +9,6 @@ async function Owner() {
   return (
     <div>
       <AlreadyLoggedIn></AlreadyLoggedIn>
-      Owner Dashboard
       <NavBar></NavBar>
       <div className="min-h-screen flex justify-center items-center">
       <ListAllBookDetails></ListAllBookDetails>
